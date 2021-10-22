@@ -1,36 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/altpope/altpope.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is a summary of personal projects I have undertaken in different areas of interest
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Data Analytics
 
-### Markdown
+In August 2021 I enrolled for a [Google Data Analytics Professional Certification](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=15-GoogleDataAnalytics-ROW&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20google%20data%20analytics&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=507290840627&hide_mobile_promo&gclid=CjwKCAjwwsmLBhACEiwANq-tXGS9h4MICqRDhYHLiYF6pL7s7_fyCYZEhdPlnH5CM771YxlVmW821BoC4q4QAvD_BwE) on [Coursera](coursera.org) platform. The following projects are my final case study projects.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. ### The effect of Covid vacciantion on excess death in England and Wales.
 
-```markdown
-Syntax highlighted code block
+This case study was of personal interest and looked at excess death in England and Weales (UK), Covid-19 cases and Covid vaccination between September 2020 and August 2021.
 
-# Header 1
-## Header 2
-### Header 3
+  * [DataAnalytics Covid](https://github.com/altpope/DataAnalytics_Covid)
 
-- Bulleted
-- List
+2. ### Hire bike patterns for Casual and Member riders of a fictitional bike-hire company
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/altpope/altpope.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This was a [Google Data Analytics Professional Certification](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=15-GoogleDataAnalytics-ROW&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20google%20data%20analytics&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=507290840627&hide_mobile_promo&gclid=CjwKCAjwwsmLBhACEiwANq-tXGS9h4MICqRDhYHLiYF6pL7s7_fyCYZEhdPlnH5CM771YxlVmW821BoC4q4QAvD_BwE) case study and looked at different usage of bikes by long term members and ad-hoc riders over a period of one year (Octiber 2020 to September 2021)
 
 ### Support or Contact
 
