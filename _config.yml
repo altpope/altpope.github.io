@@ -1,5 +1,6 @@
 theme: jekyll-theme-hacker
-author: Alexandru Popescu
+author: 
+  name: Alex Popescu
 title: AltPope's GitHub homepage
 description: You'll find here a mishmash of personal projects
 social_links: 
