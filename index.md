@@ -20,4 +20,4 @@ This was a [Google Data Analytics Professional Certification](https://www.course
 
 ### Contact
 
-You could message me on [LinkedIn](linkedin.com)
+You could message me on [LinkedIn](www.linkedin.com/in/alexandru-popescu-8365271)
