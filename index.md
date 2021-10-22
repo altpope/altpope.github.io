@@ -20,4 +20,4 @@ This was a [Google Data Analytics Professional Certification](https://www.course
 
 ### Contact
 
-You could message me on [LinkedIn](https://www.linkedin.com/)
+You could message me on [LinkedIn](https://www.linkedin.com/in/)
